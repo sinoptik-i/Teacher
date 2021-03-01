@@ -1,0 +1,4 @@
+include ':teachlibrary'
+include ':apppupil'
+include ':app'
+rootProject.name = "Teacher"

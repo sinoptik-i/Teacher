@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Teacher</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_register_short">Register</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="work_with_tasks">"work_with_tasks"</string>
+    <string name="add_task">"add_task"</string>
+    <string name="change_task">"change_task"</string>
+    <string name="remove_task">"remove_task"</string>
+
+    <string name="add_pupil">"add_pupil"</string>
+    <string name="del_pupil">"del_pupil"</string>
+    <string name="all_pupils">"all_pupils"</string>
+    <string name="pupil_name">"insert_pupil_name:"</string>
+    <string name="pupil_grade">"insert_pupil_grade:"</string>
+
+    <string name="change_pupil">"change_pupil"</string>
+    <string name="task_groups">"task_groups"</string>
+    <string name="results">"results"</string>
+    <string name="tests">"tests"</string>
+    <string name="chat">"chat"</string>
+
+    <string name="add_task_group">"add_task_group"</string>
+
+    <string name="ok">"OK"</string>
+
+
+    <string name="select">"select"</string>
+
+</resources>

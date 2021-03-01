@@ -1,0 +1,34 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pupil_name">
+    </TextView>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/edit_text"
+        android:id="@+id/et_pupil_name">
+    </EditText>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pupil_grade">
+    </TextView>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/edit_text"
+        android:id="@+id/et_pupil_grade"
+        android:inputType="number">
+    </EditText>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/edit_text"
+        android:id="@+id/button_name_pupil"
+        android:text="@string/ok"></Button>
+
+
+</LinearLayout>

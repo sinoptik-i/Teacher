@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/edit_text"
+        android:id="@+id/tv_taskgroup_name"
+        ></TextView>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/edit_text"
+        android:id="@+id/button_add_taskgroup"
+        android:text="@string/add_task_group"
+        ></Button>
+
+
+
+</LinearLayout>

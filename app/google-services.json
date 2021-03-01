@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "389536749636",
+    "firebase_url": "https://teacher-cd6bc.firebaseio.com",
+    "project_id": "teacher-cd6bc",
+    "storage_bucket": "teacher-cd6bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389536749636:android:f5a3d1f369faa8a94b4411",
+        "android_client_info": {
+          "package_name": "sinoptik.teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389536749636-eb8svr500krr4rkkuo4lt48jetrkcr90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sinoptik.teacher",
+            "certificate_hash": "c13fe77aea96dde7cc6ce858aed194aa059b3c15"
+          }
+        },
+        {
+          "client_id": "389536749636-iup6b3fb8eemi3cv1c3ic4d1r0kmugu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWLhnG17cNx4hWYRPSEG7FKpZqcPFo8ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389536749636-iup6b3fb8eemi3cv1c3ic4d1r0kmugu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
